@@ -10,9 +10,7 @@ This exploit breaks the CRP-1 of the LPC1343 and also it can break CRP-1 on some
 
 -Invoke the UART bootloader
 
--Call the "Write to RAM" command
-
--Enter "W 268443476 172"
+-Call the "Write to RAM" command via entering "W 268443476 172"
 
 -Send the econded exploit to the device
 
